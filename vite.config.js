@@ -4,7 +4,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // base: '/Dr_Sevar_Nigmatovna/',
+  base: '/Dr_Sevar_Nigmatovna/',
   plugins: [vue()],
   resolve:{
     alias:{
