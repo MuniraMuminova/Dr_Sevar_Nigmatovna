@@ -1,0 +1,1 @@
+import{H as e,o,c as s,b as t}from"./index-f355f8eb.js";const c={},n={class:"container"},_=t("div",{class:"about__box"},null,-1),a=[_];function r(d,i){return o(),s("div",n,a)}const f=e(c,[["render",r]]);export{f as default};
